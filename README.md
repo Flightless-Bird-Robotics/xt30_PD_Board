@@ -7,11 +7,11 @@ A small xt30 power delivery board with space for 6 standart xt30 connectors
 The holes for the xt30 connectors on this Board are 2.7mm in diameter.
 However there does not seem to be a standard for this size. All the ones I know of will fit, but I recommend to measure what you have available before getting this board manufactured.
 
-While the board supports the 30A continuos, and 60A burst of the xt30 connector. I do not have the equipment to validate this.
-The board is build for one input and multiple outputs. If you deviate from that make sure the total current does not exceed the 30/60A.
+While the board should supports the 30A continuos, and 60A burst of the xt30 connector in theory, I do not have the equipment to validate this.
+
 
 ## Manufacturing
-To get the milticolor version, you need to order from JLCPCB, since I'm not aware of any other manufacturer supporting multicolor Silkscreen.
+To get the multicolor version, you need to order from JLCPCB, since I'm not aware of any other manufacturer supporting multicolor Silkscreen.
 The non color variant can be manufactured from any manufacturer. For that I recommend to use the XT30_PD_Board_Without_Color_Gerber.zip file.
 
 To order the color version, upload the XT30_PD_Board_Gerber.zip file to JLCPCB. You can find the file in the Hardware folder.
