@@ -1,6 +1,6 @@
 # xt30_PD_Board
 A small xt30 power delivery board with space for 6 standart xt30 connectors
-<img width="4208" height="3120" alt="XT30_PD_Board_Photo" src="https://github.com/user-attachments/assets/2d88ef38-054d-4a5a-90a5-ed3d86c9b6a8" />
+<img width="3120" height="4208" alt="XT30_PD_Board_Photo" src="https://github.com/user-attachments/assets/b8a24ea0-033b-4119-bff2-65343b8d1d51" />
 <img width="1528" height="1198" alt="XT30_PD_Board_Screenshot" src="https://github.com/user-attachments/assets/3514df22-fbb6-47f1-9a2a-d2b35945e15a" />
 <img width="1558" height="810" alt="XT30_PD_Board_Screenshot_Bottom" src="https://github.com/user-attachments/assets/a223c642-9acd-4f34-aad2-2b9657ea8b21" />
 ## Warnings
