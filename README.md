@@ -7,7 +7,7 @@ A small xt30 power delivery board with space for 6 standart xt30 connectors
 The holes for the xt30 connectors on this Board are 2.7mm in diameter.
 However there does not seem to be a standard for this size. All the ones I know of will fit, but I recommend to measure what you have available before getting this board manufactured.
 
-While the board should supports the 30A continuos, and 60A burst of the xt30 connector in theory, I do not have the equipment to validate this.
+The board has been tested with 30A continuously in still air. 
 
 
 ## Manufacturing
